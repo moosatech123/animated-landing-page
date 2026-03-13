@@ -37,21 +37,13 @@ animated-landing-page
 
 ---
 
-## 📸 Preview
-
-![Project Preview](preview.png)
-
-> Add a screenshot of your project here for better presentation.
-
----
-
 ## 🚀 Getting Started
 
 To run this project locally:
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/animated-landing-page.git
+git clone https://github.com/moosatech123/animated-landing-page.git
 ```
 
 2. Open the project folder
